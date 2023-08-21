@@ -8,10 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [The challenge](#the-challenge)
   - [Where to find everything](#where-to-find-everything)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
-
-
 
 ## Overview
 
@@ -53,9 +50,3 @@ There is also a `style-guide.md` file containing the information you'll need, su
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
-
-
-
-
-
-
