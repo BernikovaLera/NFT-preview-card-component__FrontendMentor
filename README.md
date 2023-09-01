@@ -1,5 +1,7 @@
 # Frontend Mentor - NFT preview card component solution
 
+![](./design/desktop-preview.jpg)
+
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -7,7 +9,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Where to find everything](#where-to-find-everything)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
 
 ## Overview
@@ -37,9 +38,6 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-### Screenshot
-
-![](./design/desktop-preview.jpg)
 
 ### Built with
 
